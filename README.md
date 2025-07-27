@@ -13,11 +13,6 @@ This is a console-based Canteen Management System built as a part of my first-se
 - IDE: Code::Blocks / Turbo C / GCC
 
 ## 📸 Screenshots
-*(Add terminal output images here if available)*
+![Menu Screenshot](screenshots/menu-screenshot.png)
 
-## 📂 Folder Structure
-```bash
-.
-├── canteen.c
-├── README.md
-└── screenshots/
+
