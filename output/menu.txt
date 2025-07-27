@@ -1,0 +1,13 @@
+Burger 8.99 25
+Pizzaaa 13.50 15
+Pasta 9.75 20
+Sandwich 6.50 30
+Salad 7.25 18
+Fries 3.99 40
+Soup 5.50 12
+Steak 18.99 8
+Chicken 14.75 22
+Fish 16.50 10
+Soda 2.50 50
+Coffee 3.25 35
+Dessert 4.99 15
